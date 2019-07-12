@@ -1,1 +1,1 @@
-# Nanatsu-bot-T
+# tickety-magic
